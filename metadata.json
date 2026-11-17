@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Buddy",
+  "description": "An adaptive, syllabus-grounded learning assistant for undergraduate CS and AIML students. Learn Smarter. Track Better. Revise Stronger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
